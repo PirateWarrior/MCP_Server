@@ -1,0 +1,15 @@
+Hunter MCP Server
+"Hunter": {
+            "url": "",
+            "command": "Path\hunter_mcp_server.exe",
+            "args": [
+                "--key",
+                "Key值"
+            ],
+            "env": {
+                "": ""
+            },
+            "desc": "Hunter网络空间搜索引擎"           
+        }
+
+Stdio:hunter_mcp_server.exe --key
