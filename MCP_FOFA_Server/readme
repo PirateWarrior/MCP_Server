@@ -1,1 +1,13 @@
+FOFA 网络空间引擎查询
 
+    "FOFA": {
+        "url": "",
+        "command": "Path\fofa_mcp_server.exe",
+        "args": [
+            "--email",             
+            "--key"                
+        ],
+        "env": {
+            "": ""
+        }
+STDIO:fofa_mcp_server.exe --email --key
